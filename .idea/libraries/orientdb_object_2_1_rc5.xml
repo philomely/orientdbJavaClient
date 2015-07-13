@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="orientdb-object-2.1-rc5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/orientdb-object-2.1-rc5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
